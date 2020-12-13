@@ -1,0 +1,10 @@
+.root{
+    -fx-font-family: "Comic Sans MS";
+    -fx-base: #FB9114;
+    -fx-background: #147DFB;
+}
+
+.button {
+    -fx-text-fill: #000000;
+    -fx-background-color: #52DD3C;
+}
